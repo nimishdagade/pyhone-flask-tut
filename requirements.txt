@@ -70,7 +70,7 @@ PyAudio @ file:///C:/Users/Home/AppData/Local/Programs/Python/Python38-32/Script
 PyAutoGUI==0.9.50
 pygame==1.9.6
 PyGetWindow==0.0.8
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 PyJWT==1.7.1
 pylint==2.4.4
